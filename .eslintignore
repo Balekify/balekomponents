@@ -1,0 +1,5 @@
+lib/
+config/
+build/
+scripts/
+src/registerServiceWorker.js
