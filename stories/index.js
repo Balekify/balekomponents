@@ -6,7 +6,13 @@ import { linkTo } from '@storybook/addon-links'
 
 import { Button, Welcome } from '@storybook/react/demo'
 
-import { Wave } from '../src/components'
+import { Wave, Carousel } from '../src/components'
 
-storiesOf('Wave', module)
-  .add('Wave', () => <Wave />)
+const carouselItems = [1, 2, 3, 4, 5];
+
+
+storiesOf("Wave", module)
+.add("Wave", () => <Wave />)
+
+storiesOf("Carousel", module)
+  .add("Carousel", () => <Carousel>{carouselItems}</Carousel>);
