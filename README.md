@@ -1,9 +1,0 @@
-# Balekomponents
-
-*THIS IS FOR TESTING PURPOSE ONLY*
-
-
-*DO NOT JUDGE - DO NOT USE*
-
-
-*THANK YOU*

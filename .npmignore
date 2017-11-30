@@ -1,0 +1,8 @@
+coverage/
+src/
+
+.storybook
+.idea
+.DS_Store
+npm-debug.log
+
