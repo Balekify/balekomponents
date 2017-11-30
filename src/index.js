@@ -1,3 +1,1 @@
-import * as components from './components'
-
-export { components, style }
+export * from './components'
