@@ -1,1 +1,1 @@
-export * from './Wave'
+export { default as Wave } from './Wave'
