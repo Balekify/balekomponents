@@ -53,5 +53,10 @@
     "@storybook/react": "^3.2.16",
     "@storybook/addon-actions": "^3.2.16",
     "@storybook/addon-links": "^3.2.16"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.6.0"
   }
 }
