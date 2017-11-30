@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<p align="center"
+<p align="center">
 <img width=600 height="auto" src="https://inhabitat.com/wp-content/blogs.dir/1/files/2015/06/LEGO-sustainable-building-brick.jpg" alt="Balekomponents" />
 </p>
 
